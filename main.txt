@@ -1,0 +1,4 @@
+i donot initialse the repository 
+
+now using git bash i will do the initialisation and adding files to the new repsotiory
+
